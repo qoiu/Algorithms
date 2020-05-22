@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//сложность: O(N)
 public class Fibonacci {
     public static void main(String...args){
             System.out.println(Arrays.toString(getFibonacci(20)));

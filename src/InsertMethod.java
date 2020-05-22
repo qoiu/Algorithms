@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.Random;
 
+
+//сложность: O(N^2)
 public class InsertMethod {
     public static void main(String... args) {
         int[] array = randArray(20, 40);

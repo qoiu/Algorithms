@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad91c0f-8f16-4d1e-80dc-d1c65e55cb48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cExWfBm24z5OcOIv8qDKBGzqnb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleNumbers">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertMethod" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleNumbers" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleNumbers" />
+        <item itemvalue="Application.InsertMethod" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.List" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad91c0f-8f16-4d1e-80dc-d1c65e55cb48" name="Default Changelist" comment="" />
+      <created>1590107586200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590107586200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="29" key="#Project_Structure" timestamp="1590107638796">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="29" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1590107638796" />
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1590121116480">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1590121116480" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590117150848">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1590117150848" />
+    <state width="384" height="438" key="DebuggerActiveHint" timestamp="1590108828855">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="384" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1590108828855" />
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1590163298395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590163298395" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1590163298395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590163298395" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1590163298395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590163298395" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1590163298395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590163298395" />
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1590158500197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590158500197" />
+    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1590158500197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1590158500197" />
+    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1590158500197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1590158500197" />
+    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1590158500197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1590158500197" />
+    <state x="506" y="305" key="ReplaceDuplicatesPrompt" timestamp="1590122538105">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="506" y="305" key="ReplaceDuplicatesPrompt/0.0.1366.738@0.0.1366.738" timestamp="1590122538105" />
+    <state x="413" y="143" width="540" height="460" key="extract.method.dialog" timestamp="1590122528208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="143" width="540" height="460" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1590122528208" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1590115921978">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1590115921978" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InsertMethod.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
